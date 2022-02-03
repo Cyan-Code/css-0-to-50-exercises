@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container {  
+  background-color: azure;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container-fachada{
+  width: 240px;
+  height: 200px;
+  background-color: aqua;
+}
+.container-techo{
+  width: 240px;
+  height: 200px;
+  background-color: plum;
+}
+.container-chimenea{
+  width: 240px;
+  height: 200px;
+  background-color: bisque;
+}
+
